@@ -2,3 +2,6 @@
 	path = spinnaker_sdk_camera_driver
 	url = https://github.com/neufieldrobotics/spinnaker_sdk_camera_driver.git
 	branch = feature/ubuntu-20.4
+[submodule "imu_vn_100_driver"]
+	path = imu_vn_100_driver
+	url = https://gitlab.com/neufieldrobotics/imu_vn_100_driver.git
