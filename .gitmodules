@@ -11,3 +11,6 @@
 [submodule "robot_desc"]
 	path = robot_desc
 	url = https://github.com/neufieldrobotics/robot_desc.git
+[submodule "ouster_ros1"]
+	path = ouster_ros1
+	url = https://gitlab.com/neufieldrobotics/sensor_drivers/ouster_ros1.git
