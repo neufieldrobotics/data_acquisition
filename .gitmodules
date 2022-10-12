@@ -8,3 +8,6 @@
 [submodule "trigger_msgs"]
 	path = trigger_msgs
 	url = https://github.com/jpsnir/trigger_msgs.git
+[submodule "robot_desc"]
+	path = robot_desc
+	url = https://github.com/neufieldrobotics/robot_desc.git
