@@ -1,0 +1,10 @@
+<launch>
+
+   <include file="$(find spinnaker_sdk_camera_driver)/launch/acquisition_external_trigger.launch"/>
+   <include file="$(find imu_vn_100)/launch/vn_100_cont.launch"/>
+   <include file="$(find ouster_ros)/launch/os1.launch"/>
+   <include file="$(find robot_desc)/launch/robot_desc.launch"/>
+
+  
+   <!-- <node pkg="rosbag" type="record" name="recorder" output="screen" args="-a"/>  -->
+</launch>
