@@ -14,6 +14,3 @@
 [submodule "ouster_ros1"]
 	path = ouster_ros1
 	url = https://gitlab.com/neufieldrobotics/sensor_drivers/ouster_ros1.git
-[submodule "mocap_optitrack"]
-	path = mocap_optitrack
-	url = https://github.com/ros-drivers/mocap_optitrack.git
